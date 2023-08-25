@@ -19,4 +19,9 @@ public void add() {
 	
 }
 
+public void m1() {
+	
+	
+}
+
 }
